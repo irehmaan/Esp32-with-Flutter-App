@@ -80,7 +80,28 @@ class WeatherDataUI extends StatelessWidget {
               padding: const EdgeInsets.all(2.0),
               child: Text(
                 "Temperature: "
-                "${weatherData['Temp'].toString()}",
+                "${weatherData['Temp'].toString()}"
+                " °C",
+                style: const TextStyle(
+                    color: Colors.black,
+                    fontSize: 14,
+                    fontWeight: FontWeight.bold),
+              ),
+            ),
+          ),
+          Container(
+            decoration: BoxDecoration(
+                color: Colors.blue, borderRadius: BorderRadius.circular(20)),
+            margin: const EdgeInsets.all(10),
+            padding: const EdgeInsets.all(10),
+            height: 100,
+            width: 110,
+            child: Padding(
+              padding: const EdgeInsets.all(2.0),
+              child: Text(
+                "Humidity: \n"
+                "${weatherData['Humidity'].toString()}"
+                " %",
                 style: const TextStyle(
                     color: Colors.black,
                     fontSize: 14,
