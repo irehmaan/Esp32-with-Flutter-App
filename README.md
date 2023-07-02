@@ -12,11 +12,11 @@ samples, guidance on mobile development, and a full API reference.
 
 ESP32 Documentation: 
 
-You can find the official documentation for ESP32 on the Espressif Systems website. It provides detailed information about the ESP32 microcontroller, pin configurations, programming, and various features. Visit ESP32 Documentation(https://docs.espressif.com/projects/esp-idf/en/latest/esp32/) to access the documentation.
+You can find the official documentation for ESP32 on the Espressif Systems website. It provides detailed information about the ESP32 microcontroller, pin configurations, programming, and various features. Visit [ESP32 Documentation](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/) to access the documentation.
 
 Firebase Documentation: 
 
-Firebase provides comprehensive documentation to help you understand and utilize its services for storing and retrieving data. You can find tutorials, guides, and API references on the Firebase website. Visit Firebase Documentation(https://firebase.google.com/docs) to explore the documentation and learn how to integrate Firebase with your project.
+Firebase provides comprehensive documentation to help you understand and utilize its services for storing and retrieving data. You can find tutorials, guides, and API references on the Firebase website. Visit [Firebase Documentation](https://firebase.google.com/docs) to explore the documentation and learn how to integrate Firebase with your project.
 
 These resources will provide you with the necessary information to set up and use ESP32 for the Weather Station project, as well as guidance on how to connect and interact with Firebase for data storag
 
