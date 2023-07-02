@@ -1,10 +1,6 @@
-# weatther_station
+#Weather Staion with Esp32 and Firebase.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+The Weather Station project is a system that gathers environmental data using an ESP32 microcontroller, DHT11 temperature and humidity sensor, and BMP180 barometric pressure sensor. The collected data is uploaded to Google Firebase for storage. A Flutter mobile app is developed to display the weather data in a user-friendly format. The project involves hardware setup, software configuration, and the development of the mobile app. Users can access the app to view the current temperature, humidity, and barometric pressure data collected by the Weather Station.
 
 A few resources to get you started if this is your first Flutter project:
 
